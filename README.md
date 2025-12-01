@@ -36,4 +36,4 @@ $ yarn start:prod
 
 ## License
 
-[MIT licensed](LICENSE).
+[MIT licensed](https://opensource.org/license/MIT).
